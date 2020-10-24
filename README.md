@@ -2,5 +2,5 @@
 Travel Site built in AMP for Hacktoberfest
 
 
-#Contributors
+# Contributors
 Nikiya Simpson
